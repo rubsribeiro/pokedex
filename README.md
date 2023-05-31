@@ -12,8 +12,6 @@ Assim que você clicar no link da página aparecerá a Pokédex. Basta digitar o
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * HTML5
 * CSS3
 * JavaScript
