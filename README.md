@@ -1,4 +1,5 @@
 Pokédex - Gotta catch'em all! ϞϞ(๑⚈ ․̫ ⚈๑)∩
+##
 Pokédex desenvolvida para fins de estudo e diversão! ╭<<◕°ω°◕>>╮
 
 🚀 Como funciona?
@@ -9,6 +10,7 @@ Assim que você clicar no link da página aparecerá a Pokédex. Basta digitar o
 
 
 🛠️ Construído com
+##
 HTML5
 CSS3
 JavaScript
