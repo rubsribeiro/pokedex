@@ -12,9 +12,13 @@ Assim que você clicar no link da página aparecerá a Pokédex. Basta digitar o
 🛠️ Construído com
 ##
 HTML5
+##
 CSS3
+##
 JavaScript
+##
 API - PokeAPI | https://pokeapi.co/
+##
 ✒️ Autores
 Esse projeto foi inspirado no "Manual do DEV" - https://www.youtube.com/watch?v=SjtdH3dWLa8
 
