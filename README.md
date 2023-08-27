@@ -19,7 +19,7 @@ JavaScript
 ##
 API - PokeAPI | https://pokeapi.co/
 ##
-✒️ Autores
+✒️ Autores: 
 Esse projeto foi inspirado no "Manual do DEV" - https://www.youtube.com/watch?v=SjtdH3dWLa8
 
 ⌨️ com ❤️ por [Rúbia Ribeiro] 😊
